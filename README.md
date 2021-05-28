@@ -1,6 +1,4 @@
-# StructionSite Take-home project
-
-## Omnidirectional camera-based odometry
+# Omnidirectional camera-based odometry
 
 Goal: generate the path that was walked by the user while they recorded this omnidirectional
 video. We’d like to see the locations of the path projected onto this top-down image. The green
